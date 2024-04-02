@@ -1,22 +1,8 @@
-
-
-
-
-![MasterHead](https://media.licdn.com/dms/image/D4E16AQFZZQdXco7XxA/profile-displaybackgroundimage-shrink_350_1400/0/1698082698967?e=1717632000&v=beta&t=JbUBI0QS4cO9sw7k2m7iHecAb3mIwu5XGWTDzKtOZns)
-
 <h1 align="center">Hi 👋, I'm Vaishavi</h1>
 <h3 align="center">A Full Stack Developer and a Machine Learning Enthusiast</h3>
-
+<hr>
 <img align=“right” width=“300” src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
 
-<br/>
-
-<h3 align="left">Trophies:</h3>
-<p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=vaishavi&theme=onedark&no-bg=true" alt="vaishavi's GitHub Trophies" />
-  </a>
-</p>
 <br/>
 
 - 🔭 I’m currently working on **Sorting Algorithm Visualizer and Question Answering System**
@@ -44,3 +30,5 @@
 <br/>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaishavi&" alt="vaishavi" /></p>
+
+![MasterHead](https://media.licdn.com/dms/image/D4E16AQFZZQdXco7XxA/profile-displaybackgroundimage-shrink_350_1400/0/1698082698967?e=1717632000&v=beta&t=JbUBI0QS4cO9sw7k2m7iHecAb3mIwu5XGWTDzKtOZns)
