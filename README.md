@@ -12,10 +12,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishavi&label=Profile%20views&color=0e75b6&style=flat" alt="vaishavi" /> </p>
 <br/>
 
+<h3 align="left">Trophies:</h3>
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=vaishavi&theme=onedark&no-bg=true" alt="vaishavi's GitHub Trophies" />
-  </a>
+[![trophy](https://github-profile-trophy.vercel.app/?username=vaishavi&theme=onedark&no-bg=true&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 </p>
 <br/>
 
