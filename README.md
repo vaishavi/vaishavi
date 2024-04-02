@@ -8,7 +8,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishavi&label=Profile%20views&color=0e75b6&style=flat" alt="vaishavi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaishavi" alt="vaishavi" /></a> </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=vaishavi&theme=onedark&no-bg=true" alt="vaishavi's GitHub Trophies" />
+  </a>
+</p>
+
 
 - 🔭 I’m currently working on **Sorting Algorithm Visualizer and Question Answering System**
 
