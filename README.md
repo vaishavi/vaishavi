@@ -9,7 +9,6 @@
 
 <img align=“right” width=“300” src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
 
-<p align="left"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9xO_6RKZPvEYzWmctIeVVQNPaSOupg5-21DxSmNXrgg&s" alt="vaishavi" /> </p>
 <br/>
 
 <h3 align="left">Trophies:</h3>
