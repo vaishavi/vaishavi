@@ -1,6 +1,6 @@
 
+![MasterHead](https://media.licdn.com/dms/image/D4E16AQFZZQdXco7XxA/profile-displaybackgroundimage-shrink_350_1400/0/1698082698967?e=1717632000&v=beta&t=JbUBI0QS4cO9sw7k2m7iHecAb3mIwu5XGWTDzKtOZns)
 
-[! [MasterHead] (https://media.licdn.com/dms/image/D4E16AQFZZQdXco7XxA/profile-displaybackgroundimage-shrink_350_1400/0/1698082698967?e=1717632000&v=beta&t=JbUBI0QS4cO9sw7k2m7iHecAb3mIwu5XGWTDzKtOZns)]
 <h1 align="center">Hi 👋, I'm Vaishavi</h1>
 <h3 align="center">A Full Stack Developer and a Machine Learning Enthusiast</h3>
 
