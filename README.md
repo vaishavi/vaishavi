@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaishavi</h1>
-<img align="right" width="300" src="https://raw.githubusercontent.com/vaishavi/vaishavi/main/greeting_msg_1">
+<img align="right" width="500" src="https://raw.githubusercontent.com/vaishavi/vaishavi/main/greeting_msg_1">
 
 <h3 align="center">A Full Stack Developer and a Machine Learning Enthusiast</h3>
 <hr>
