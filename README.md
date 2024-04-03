@@ -1,7 +1,6 @@
-<div style="display: flex; align-items: center; justify-content: start;">
+<div style="display: flex; align-items: center; justify-content: start;" align="center">
   <img src="https://raw.githubusercontent.com/vaishavi/vaishavi/main/greeting_msg_1" width="500" style="margin-right: 20px;">
   <div>
-    <h1>Hi 👋, I'm Vaishavi</h1>
     <h3>A Full Stack Developer and a Machine Learning Enthusiast</h3>
   </div>
 </div>
