@@ -2,7 +2,6 @@
   <img src="https://raw.githubusercontent.com/vaishavi/vaishavi/main/try.gif" alt="Hi, I'm Vaishavi" width="500">
   <h2 align="center">Full Stack Developer | Machine Learning Enthusiast | Tech Innovator</h2>
 </div>
-<hr/>
 
 I’m a dedicated and passionate Full Stack Developer with a keen interest in Machine Learning. Currently, I’m expanding my expertise in Sorting Algorithm Visualizers using and diving deep into Question Answering Systems using the latest LLMs. My toolbox includes JAVA, Python, React, SQL, HTML, CSS and a suite of AWS services.
 
