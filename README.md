@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vaishavi</h1>
-<img align="right" width="300" src="https://raw.githubusercontent.com/vaishavi/vaishavi/main/Greetings_Gif/2024-04-03-Hi-I-m-Vaishavi.gif">
+<img align="right" width="300" src="https://raw.githubusercontent.com/vaishavi/vaishavi/main/greeting_msg_1">
+
 <h3 align="center">A Full Stack Developer and a Machine Learning Enthusiast</h3>
 <hr>
 <img align=“right” width=“300” src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
