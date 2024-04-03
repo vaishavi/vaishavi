@@ -1,5 +1,5 @@
 <div style="display: flex; align-items: center; justify-content: start;">
-  <img src="https://raw.githubusercontent.com/vaishavi/vaishavi/main/Greetings_Gif/2024-04-03-Hi-I-m-Vaishavi.gif" width="300" style="margin-right: 20px;">
+  <img src="https://raw.githubusercontent.com/vaishavi/vaishavi/main/greeting_msg_1" width="500" style="margin-right: 20px;">
   <div>
     <h1>Hi 👋, I'm Vaishavi</h1>
     <h3>A Full Stack Developer and a Machine Learning Enthusiast</h3>
