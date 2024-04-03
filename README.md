@@ -1,9 +1,8 @@
-<div style="display: flex; align-items: center; justify-content: start;" align="center">
-  <img src="https://raw.githubusercontent.com/vaishavi/vaishavi/main/greeting_msg_1" width="500" style="margin-right: 20px;">
-  <div>
-    <h3>A Full Stack Developer and a Machine Learning Enthusiast</h3>
-  </div>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/vaishavi/vaishavi/main/path_to_your_gif.gif" alt="Hi, I'm Vaishavi" width="500">
+  <p style="margin-top: -20px;">A Full Stack Developer and a Machine Learning Enthusiast</p>
 </div>
+
 
 <br/>
 
