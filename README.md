@@ -25,9 +25,13 @@
 
 <br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaishavi&show_icons=true&locale=en&layout=compact" alt="vaishavi" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaishavi&show_icons=true&locale=en" alt="vaishavi" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaishavi&" alt="vaishavi" /></p>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vaishavi&show_icons=true&locale=en&layout=compact" alt="vaishavi" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=vaishavi&show_icons=true&locale=en" alt="vaishavi" /></td>
+  </tr>
+</table>
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishavi&" alt="vaishavi" />
 
 ![MasterHead](https://media.licdn.com/dms/image/D4E16AQFZZQdXco7XxA/profile-displaybackgroundimage-shrink_350_1400/0/1698082698967?e=1717632000&v=beta&t=JbUBI0QS4cO9sw7k2m7iHecAb3mIwu5XGWTDzKtOZns)
