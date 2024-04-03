@@ -1,18 +1,15 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/vaishavi/vaishavi/main/greeting_msg_1" alt="Hi, I'm Vaishavi" width="500">
-  <p style="margin-top: -20px;">A Full Stack Developer and a Machine Learning Enthusiast</p>
+  <img src="https://raw.githubusercontent.com/vaishavi/vaishavi/main/try.gif" alt="Hi, I'm Vaishavi" width="500">
+  <h2 align="center">Full Stack Developer | Machine Learning Enthusiast | Tech Innovator</h2>
 </div>
+<hr/>
 
+I’m a dedicated and passionate Full Stack Developer with a keen interest in Machine Learning. Currently, I’m expanding my expertise in Sorting Algorithm Visualizers using and diving deep into Question Answering Systems using the latest LLMs. My toolbox includes JAVA, Python, React, SQL, HTML, CSS and a suite of AWS services.
 
-<br/>
-
-- 🔭 I’m currently working on **Sorting Algorithm Visualizer and Question Answering System**
-
-- 🌱 I’m currently learning **LLM, AWS**
-
-- 💬 Ask me about **JAVA, React, SQL**
-
-- 📫 How to reach me **vvaishavi99@gmail.com**
+🔭 Crafting code at the intersection of efficiency and innovation.  
+🌱 Lifelong learner and explorer of cutting-edge tech landscapes.  
+💬 Let's talk about tech solutions that push boundaries.  
+📫 Reach out to me at [vvaishavi99@gmail.com](mailto:vvaishavi99@gmail.com).
 
 <br/>
 
@@ -26,12 +23,11 @@
 
 <br/>
 
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vaishavi&show_icons=true&locale=en&layout=compact" alt="vaishavi" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=vaishavi&show_icons=true&locale=en" alt="vaishavi" /></td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: space-around; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vaishavi&show_icons=true&locale=en&layout=compact" alt="vaishavi" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vaishavi&show_icons=true&locale=en" alt="vaishavi" />
+</div>
+
 <br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishavi&" alt="vaishavi" />
 
