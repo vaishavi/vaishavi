@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/vaishavi/vaishavi/main/try.gif" alt="Hi, I'm Vaishavi" width="500">
+<!--   <img src="https://raw.githubusercontent.com/vaishavi/vaishavi/main/try.gif" alt="Hi, I'm Vaishavi" width="500"> -->
+  <h1 align="center">Hi, I'm Vaishavi</h1>
   <h2 align="center">Full Stack Developer | Machine Learning Enthusiast | Tech Innovator</h2>
 </div>
 
