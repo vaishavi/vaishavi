@@ -4,7 +4,7 @@
   <h2 align="center">Full Stack Developer | Machine Learning Enthusiast | Tech Innovator</h2>
 </div>
 
-I’m a dedicated and passionate Full Stack Developer with a keen interest in Machine Learning. Currently, I’m expanding my expertise in React and diving deep into Question Answering Systems using the latest LLMs. My toolbox includes JAVA, Python, React, SQL, HTML, CSS and a suite of AWS services.
+I’m a dedicated and passionate Full Stack Developer with a keen interest in Machine Learning. Currently, I'm learning about AWS and expanding my expertise in React. My toolbox includes JAVA, Python, React, SQL, HTML, CSS and a suite of AWS services.
 
 🔭 Crafting code at the intersection of efficiency and innovation.  
 🌱 Lifelong learner and explorer of cutting-edge tech landscapes.  
